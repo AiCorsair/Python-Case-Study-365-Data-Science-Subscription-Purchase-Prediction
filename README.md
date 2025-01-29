@@ -1,2 +1,6 @@
-# Python-Case-Study-365-Data-Science-Subscription-Purchase-Prediction
-This repository contains a comprehensive case study on predicting 365 Data Science customer subscriptions using real-world student engagement data.
+# Python Case Study: 365 Data Science Subscription Purchase Prediction
+
+
+## Table of Contents
+
+- [1. ](#1.-)
