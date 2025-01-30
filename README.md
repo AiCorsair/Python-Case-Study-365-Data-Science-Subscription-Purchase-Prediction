@@ -83,3 +83,11 @@ Here are the main takeaways:
 
 ## IV. Model Improvement Steps
 
+- Techniques like over and undersampling can help deal with imbalanced datasets. Oversampling generates new data points from the minority (paying students) class, while undersampling reduces the majority (free-plan students) class.
+
+- Both techniques have limitations. Oversampling creates more data points but doesn't add new information, as the new points are based on existing minority class data. Undersampling reduces the majority class size, potentially losing valuable information.
+
+- To address these issues, hybrid techniques like Synthetic Minority Oversampling Technique (SMOTE) combine over and undersampling to balance the classes.
+These are not the only methods to handle imbalanced datasets. Despite the challenges, we were able to train models on our dataset that produced reliable, insightful results.
+
+- Other ways to improve model performance include reducing dimensionality or exploring additional independent variables, such as participation in the Q&A hub, number of logins, or visits to the pricing page.
